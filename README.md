@@ -8,3 +8,5 @@ A handy currency converter in Python, using the forex-python module. It's time f
 
 - Python 3
 - Forex-python module
+
+You can install the `forex-python` module with `pip install forex-python`.
